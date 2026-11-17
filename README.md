@@ -1,1 +1,1 @@
-# Machine-Learning-for-Quant-Finance
+# Machine Learning for Options Trading
